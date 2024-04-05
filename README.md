@@ -1,4 +1,4 @@
-# Data Science Projects
+# Data Science Projects : Advanced NLP 
 
 This repository contains a series of Jupyter Notebook files created using Google Colaboratory, focusing on various aspects of Natural Language Processing (NLP) and machine learning.
 
@@ -15,7 +15,7 @@ This repository contains a series of Jupyter Notebook files created using Google
 - `8_Implement_doc2vec.ipynb`: Implementation of Doc2Vec.
 - `9_doc2vec_For_Modeling.ipynb`: Doc2Vec for modeling.
 - `10_Implementation_of_RNN_.ipynb`: Implementation of Recurrent Neural Networks (RNN).
-- 
+  
 ## Description
 
 These notebooks cover a range of topics in NLP and machine learning, including text preprocessing, vectorization, and implementation of popular models like Word2Vec and Doc2Vec. 
